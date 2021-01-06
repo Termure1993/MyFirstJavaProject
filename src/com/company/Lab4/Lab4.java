@@ -7,7 +7,7 @@ public class Lab4 {
         Logic logic = new Logic();
         //logic.printToHundred(x);
 
-        While aWhile = new While();
+
 
         //logic.countToOneHundred(- 125);
 
@@ -25,7 +25,32 @@ public class Lab4 {
 
         //System.out.println(logic.getMedia(88));
 
-        logic.asterix();
+        //logic.asterix();
+
+        While aWhile = new While();
+
+        //aWhile.printToOneHundred( 34);
+
+        //aWhile.countToMinus(34);
+
+        //aWhile.countXToY(34,40);
+
+        //aWhile.countAscending(30,35);
+
+        //aWhile.evenNumber();
+
+        //aWhile.oddNumber();
+
+        //aWhile.between(3,6);
+
+        //aWhile.getSum();
+
+        //aWhile.fibonacci();
+
+
+
+
+
 
 
 
